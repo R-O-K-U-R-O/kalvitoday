@@ -152,13 +152,13 @@ pluralizelisttitles = false
     logo = "img/logo.png"
     logo_small = "img/cover.png"
     contact_url = "/contact"
-    address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+    address = """<p class="text-uppercase"><strong>Unique Academy.</strong>
+        <br>16,Advaitha Ashram Road,
+        <br>Near By Canara Bank,
+        <br>New Bus Stand,Salem-636004
+        <br>Tamil Nadu,India
         <br>
-        <strong>Great Britain</strong>
+        <strong>Govinda Raj</strong>
       </p>
       """
 

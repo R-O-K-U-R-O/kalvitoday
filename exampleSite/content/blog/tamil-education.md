@@ -1,6 +1,6 @@
 +++
 title = "Education should be in mother tongue: Union Education Minister Dharmendra Pradhan"
-date = "2015-10-02T21:49:20+02:00"
+date = "2022-17-02T21:49:20+02:00"
 tags = ["Education", "Notification"]
 categories = ["Tamil"]
 banner = "img/banners/dh.jpg"

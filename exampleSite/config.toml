@@ -60,9 +60,9 @@ pluralizelisttitles = false
 
 [[menu.topbar]]
     weight = 2
-    name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fab fa-2x fa-github'></i>"
+    name = "YouTube"
+    url = "https://www.youtube.com/c/UniqueAcademySalem"
+    pre = "<i class='fab fa-2x fa-youtube'></i>"
 
 [[menu.topbar]]
     weight = 3
@@ -75,12 +75,6 @@ pluralizelisttitles = false
     name = "Twitter"
     url = "http://twitter.com"
     pre = "<i class='fab fa-2x fa-twitter'></i>"
-
-[[menu.topbar]]
-    weight = 5
-    name = "Email"
-    url = "mailto:hello@universal.com"
-    pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
     viewMorePostLink = "/blog/"

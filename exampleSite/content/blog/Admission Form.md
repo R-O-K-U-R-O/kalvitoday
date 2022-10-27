@@ -21,25 +21,17 @@ Students must submit the form for Sainik school admission 2023 on or before the 
 
 ### NTA AISSEE 2022-23 Registration Dates
 
-Events                                            Sainik School Admission Tentative Dates
-
-Release of Sainik School admission form2022-23         October 21, 2022
-
-AISSEE 2022 application form last date                 November 30, 2022
-	
-Last date to pay registration fees                     November 30, 2022
-	
-Application Correction dates	                       December 2 to 6, 2022
-
-Sainik School admit card release date                  Last week of December 2023
-
-All India Sainik Schools entrance exam 2023 Date       January 8, 2023
-
-AISSEE 2023 result                                     February - March 2023
-
-Medical Exam                                           March 2023
-
-Release of Final merit list                            April 2023
+|            Events           | Sainik School Admission Tentative Dates   |
+|:------------------------------------ |:----:|:----:|:----:|
+| Release of Sainik School admission form 2022-23             | October 21, 2022    |
+| AISSEE 2022 application form last date             | November 30, 2022    |
+| Last date to pay registration fees             | November 30, 2022    |
+| Application Correction dates             | December 2 to 6, 2022    |
+| Sainik School admit card release date             | Last week of December 2023    |
+| All India Sainik Schools entrance exam 2023 Date             | January 8, 2023    |
+| AISSEE 2023 result             | February - March 2023    |
+| Medical Exam             | March 2023    |
+| Release of Final merit list             | April 2023    |
 
 ### School-wise List of AISSEE 2022-23 Application Form
 
